@@ -1,0 +1,126 @@
+# AI Receptionist for Therapists
+
+## https://aireceptionistfortherapists.co.uk/
+
+AI receptionist · UK therapy practices
+ An AI receptionist for therapists, so sessions stay uninterrupted 
+ You cannot answer the phone during a session, and someone ready to ask for help may not ring twice. It answers in your practice's name, explains how you work and offers a first appointment.
+ Talk it through with Andy Book a call 
+ £497 setup, starting price 
+ £97 a month, starting price 
+ 116 123 Samaritans, given to callers at risk 
+ Answers as
+ Your practice's name, and says it is an AI
+ Offers
+ First appointments from your diary
+ Never gives
+ Clinical advice or assessment
+ Set up by
+ Andy Norman, Antek Automation
+ Call
+ 0333 038 9960
+ Ask about your practice
+ Andy replies within one working day.
+ Name 
+ Phone 
+ Email 
+ What do you need? An AI voice receptionist An AI website chatbot Both Not sure yet 
+ Website 
+ I agree to be contacted about my enquiry. Privacy policy 
+ Send my enquiry 
+ Built by Andy Norman
+ 30+ years in field service
+ ICO registered ZC133436
+ Certified Retell AI Partner
+ Based in Andover, Hampshire
+ Between one client and the next
+ The phone rings at ten past, and you cannot pick up 
+ 1 During a session
+ Your phone rings while you are with a client. New enquiries get voicemail, and you spend your break returning calls.
+ 2 The call you never hear about
+ Asking for help takes courage. A person who reaches voicemail often tries the next name on the directory, and you never know they called.
+ 3 What your day looks like instead
+ Every call answered warmly and briefly, first appointments offered from your diary, and a short message waiting for you between sessions.
+ Where it stops
+ What it will not do 
+ This is a reception tool and nothing more. Every line below is agreed and tested with your practice before a real caller hears it.
+ No clinical advice
+ It gives no clinical advice and makes no assessment, however a caller phrases the question. Anything of that kind becomes a message for you.
+ No asking why
+ It does not ask why someone is seeking help. A name, a way to reach them and a time that suits is all it needs from them.
+ A caller who appears at risk
+ It gives 999 and Samaritans on 116 123, then alerts you straight away. It does not attempt to counsel anybody.
+ What it costs
+ Priced for a private practice, not a hospital trust 
+ The receptionist starts at £497 to set up and £97 a month. A website chatbot sits beside it for practices that also take enquiries online, and what you are buying is put in writing before you commit.
+ Answers every call
+ AI voice receptionist
+ from £497 setup, from £97 a month 
+ Answers in your business name, day and night
+ Takes details and books or passes on
+ Call summaries sent to you
+ Set up and tuned by Andy
+ Scope it on a call AI website chatbot
+ from £297 setup, from £57 a month 
+ Answers questions on your website
+ Captures enquiries when you are busy
+ Trained on your own services and prices
+ Ask about the chatbot 
+ Getting it running
+ Agreed with you, then tested with you 
+ 01 Tell Andy how you work
+ Your hours, your approach and the way you like first appointments offered. He drafts the wording from that.
+ 02 Read every word
+ You see how it tells callers it is an AI and what it says to someone in crisis, then change whatever does not sound like your practice.
+ 03 Ring it, then go live
+ You hear it yourself before any client does. Only after that do calls reach it and messages start to arrive between sessions.
+ Google reviews of Antek Automation
+ What clients say about working with Andy 
+ We worked with Andy Norman from Antek Automation to integrate Retell voice agents with Shopify via n8n. He quickly resolved webhook and API issues, delivered a stable end-to-end automation, and communicated clearly throughout. His hands-on, practical approach made a real difference. Highly recommended. Akhil M. · May 2026 Andy is very responsive, informed, and easy to work with! Adapts quickly and always willing to explain things further or revisit an idea. Excited to continue building out projects with his expertise! Tanna C. · Aug 2026 After numerous meetings with other prospect companies, i was delighted to have found Antek. Speaking to Andy has been a pleasure, he explains things i don't understand in a way where i grasp how it works and what needs to be done to progess forward. He has also provided support, knowledge and hard work to help get my business up and running. 100% recommend J. H. · Jul 2026 
+ Who sets it up
+ Andy Norman is no clinician, and it will not act like one 
+ Andy runs Antek Automation from Andover in Hampshire, following more than 30 years in field service and managed print. As a Certified Retell AI Partner he sets up and tunes each receptionist himself.
+ With no clinical training of his own, he treats what your callers hear as your decision. His part is making sure it says exactly that, and stops there.
+ More about Andy 
+ Who this is for
+ Counsellors
+ Psychotherapists
+ Physiotherapists
+ Small private practices
+ Therapists working alone
+ Practices sharing one phone line
+ Before you decide
+ What therapists ask about it first 
+ Will callers know it is an AI?
+ Yes. It says so at the start of every call, in words you have agreed, so nobody believes they are speaking to you or to a member of staff.
+ What happens if someone is in crisis?
+ A caller who appears at risk is given 999 and Samaritans on 116 123, and you are alerted straight away. It never tries to assess or counsel them. That wording is agreed with your practice and tested before it takes a live call.
+ Where are call recordings stored and for how long?
+ This page cannot give you a blanket answer, and it would be wrong to guess. Where the data is held and how long it is kept are confirmed and written into your scope before anything goes live, so you can review both first.
+ Do I have to record calls?
+ That gets settled with you during setup instead of being assumed. Whatever you decide goes into your scope, along with what callers are told about it.
+ Can it book into my practice software?
+ It depends on the software. Which systems it connects to is confirmed and written into your scope before launch. If yours cannot be linked, it takes the details and passes them to you to book by hand.
+ Is it just an answering service for therapists?
+ It covers that ground, then goes further by explaining how you work and offering a first appointment, where a message service would simply take a name and number.
+ Could a larger practice use it?
+ Yes. An AI receptionist for clinics with several practitioners answers in the practice name in the same way, and who receives each message is agreed during setup.
+ Stay with your client. The phone is covered.
+ Talk it through with Andy 0333 038 9960 
+ About AI Receptionist for Therapists
+ AI Receptionist for Therapists is a service from Antek Automation, a sole trader in Andover led by Andy Norman, for counsellors, psychotherapists, physiotherapists and small private practices across the UK. AI for therapists can mean many things. Here it means one thing: the phone gets answered while you work. Read about the AI voice assistants behind it on the main site.
+
+## https://aireceptionistfortherapists.co.uk/about-andy
+
+Who sets it up
+ Andy Norman, the person behind your receptionist 
+ Andy began as a field engineer and stayed in field service and managed print for over 30 years, moving up to service manager along the way.
+ He now runs Antek Automation from Andover, and this site sets out what he can build for practices that cannot stop a session to answer the phone.
+ Where he draws the line
+ Andy is not a therapist. The words your receptionist uses are agreed and tested with you, and he will not add anything that could be heard as advice.
+ Based in Andover, Hampshire
+ Certified Retell AI Partner
+ ICO registration ZC133436
+ The wider service
+ The same technology sits behind Antek's AI voice assistant service , which is the place to read how it works in general.
+ Talk it through with Andy

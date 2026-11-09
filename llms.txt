@@ -1,0 +1,29 @@
+# AI Receptionist for Therapists
+> Antek Automation builds AI receptionists for UK therapists and counsellors from £497 setup, set up by Andy Norman, that answer during sessions and book first appointments.
+
+## About Antek Automation
+- Trading name: Antek Automation (sole trader)
+- Founder and builder: Andy Norman (30+ years in field service and managed print, Certified Retell AI Partner)
+- Address: Chantry House, 38 Chantry Way, Andover, Hampshire SP10 1LZ
+- Phone: 0333 038 9960
+- Email: hello@antekautomation.com
+- Hours: Monday to Friday, 8am to 6pm
+- ICO registration: ZC133436
+- Main service page: https://www.antekautomation.com/services/ai-voice-assistants
+
+## What this site covers
+- AI call answering for counsellors, psychotherapists, physiotherapists and small private practices in the UK
+- Setup from £497 and from £97 a month, with the scope agreed in writing
+- Limits: no clinical advice or assessment, callers told it is an AI, and callers who appear at risk given 999 and Samaritans on 116 123
+- Data location, retention and software connections are confirmed in each client's scope before go-live
+
+## Key facts
+- Answers as: Your practice's name, and says it is an AI
+- Offers: First appointments from your diary
+- Never gives: Clinical advice or assessment
+- Set up by: Andy Norman, Antek Automation
+- Call: 0333 038 9960
+
+## Contact
+- Enquiries: https://aireceptionistfortherapists.co.uk/#quote
+- Phone: 0333 038 9960
